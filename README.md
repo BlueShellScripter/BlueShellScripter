@@ -11,6 +11,6 @@ Contributions and comments are welcome. Fork, modify, whatever you like.
 
 ## Disclaimer
 
-Tools and scripts are provided as-is, without warranty. Use responsibly in accordance with applicable laws and regulations.
+Tools and scripts are provided as-is, without guarantee or warranty. Use responsibly in accordance with applicable laws and regulations. Use at your own risk.
 
 💙*BlueShellScripter* 
